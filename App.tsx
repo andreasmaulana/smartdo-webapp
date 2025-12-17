@@ -4,7 +4,7 @@ import { TodoList } from './components/TodoList';
 import { AuthState, User } from './types';
 
 // TODO: REPLACE THIS WITH YOUR ACTUAL GOOGLE CLIENT ID
-const GOOGLE_CLIENT_ID = 'YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com';
+const GOOGLE_CLIENT_ID = '90359093418-n2t1ucbr7dv1pfqms01r2mrbk3du71mp.apps.googleusercontent.com';
 
 // Utility to parse JWT from Google
 const parseJwt = (token: string) => {
